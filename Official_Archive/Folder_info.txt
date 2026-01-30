@@ -1,6 +1,6 @@
 SUQUELISH REPUBLIC SOVEREIGN HYBRID LICENSE
 1. PERPETUAL PROTECTION OF FOUNDATIONAL WORKS
-All original lexical entries, texts, documents, and records provided by Jeffrey David Mason and Marc Matthew Mason are designated as "Foundational Works." These works remain the intellectual property of the Suquelish Republic. They may be used, shared, and studied, but the core definitions and grammar logic may not be altered or claimed by any third party.
+All original lexical entries, texts, documents, and records provided by Jeffrey David Mason, Marc Matthew Mason, and the Suquelish Republic are designated as "Foundational Works." These works remain the intellectual property of the Suquelish Republic. They may be used, shared, studied, and used for AI language models and learing, but the core definitions and grammar logic may not be altered or claimed by any third party.
 2. OPEN-SOURCE EXPANSION (COMMUNITY ADDITIONS)
 All future additions, new vocabulary, and translations contributed by the community or citizens are released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 Access: Any person may access all records and use new additions without further permission.
